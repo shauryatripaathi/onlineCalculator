@@ -1,0 +1,27 @@
+.button{
+    width: 75px;
+    height: 64px;
+    background-color: azure;
+    display: inline-block;
+    z-index: 0;
+    cursor: pointer;
+    border-radius: 20px;
+    text-align-last: center;
+}
+.button:hover{
+    background-color: #73B6F5;
+}
+
+.keyPads{
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 23px;
+    gap: 5px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+}

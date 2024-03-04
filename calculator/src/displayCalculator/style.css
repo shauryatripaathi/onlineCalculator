@@ -1,0 +1,23 @@
+.displayCalculator{
+    background-color: #d9d9d9;
+    height: 453px;
+    width: 440px;
+    display: block;
+    margin-top: 109px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 264px;
+    box-shadow: 1px 1px 10px #1d1c1c;
+}
+
+.screen{
+    width: 395px;
+    height: 72px;
+    margin-left: 23px;
+    position: absolute;
+    display: inline-block;
+    margin-top: 30px;
+    background-color: #ffffff;
+    font-size: 40px;
+    text-align: right;
+}
