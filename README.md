@@ -1,3 +1,3 @@
 # onlineCalculator
 
-[calculator](https://shauryatripaathi.github.io/onlineCalculator/calculator)
+[calculator](https://shauryatripaathi.github.io/onlineCalculator/)
